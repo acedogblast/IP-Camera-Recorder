@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cc5930c-0601-47f4-b45c-fd2e32c35997" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wang/ip_camera/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wang/ip_camera/Program.java" afterDir="false" />
     </list>
@@ -31,6 +30,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Testing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wang.ip_camera.Program" />
+      <module name="IP_Camera_Recorder" />
+      <option name="PROGRAM_PARAMETERS" value="/usr/bin/ffmpeg 192.168.1.41:554 admin 123456 $USER_HOME$/testing.mkv" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,5 +56,35 @@
       <updated>1619466262585</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-48" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620604030002">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="-48" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1620604030002" />
+    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620602235569">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1620602235569" />
+    <state width="1874" height="418" key="GridCell.Tab.0.bottom" timestamp="1620605186790">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
+    <state width="1874" height="418" key="GridCell.Tab.0.center" timestamp="1620605186790">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="418" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
+    <state width="1874" height="418" key="GridCell.Tab.0.left" timestamp="1620605186789">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="418" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186789" />
+    <state width="1874" height="418" key="GridCell.Tab.0.right" timestamp="1620605186790">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="418" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
+    <state x="443" y="99" width="1024" height="844" key="SettingsEditor" timestamp="1620602212283">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="443" y="99" width="1024" height="844" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1620602212283" />
   </component>
 </project>
