@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3cc5930c-0601-47f4-b45c-fd2e32c35997" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wang/ip_camera/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wang/ip_camera/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -62,29 +61,29 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="-48" y="244" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1620604030002" />
-    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620602235569">
+    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1620606108090">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1620602235569" />
-    <state width="1874" height="418" key="GridCell.Tab.0.bottom" timestamp="1620605186790">
+    <state x="697" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1620606108090" />
+    <state width="1874" height="159" key="GridCell.Tab.0.bottom" timestamp="1620605353570">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
-    <state width="1874" height="418" key="GridCell.Tab.0.center" timestamp="1620605186790">
+    <state width="1874" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1620605353570" />
+    <state width="1874" height="159" key="GridCell.Tab.0.center" timestamp="1620605353570">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="418" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
-    <state width="1874" height="418" key="GridCell.Tab.0.left" timestamp="1620605186789">
+    <state width="1874" height="159" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1620605353570" />
+    <state width="1874" height="159" key="GridCell.Tab.0.left" timestamp="1620605353569">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="418" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186789" />
-    <state width="1874" height="418" key="GridCell.Tab.0.right" timestamp="1620605186790">
+    <state width="1874" height="159" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1620605353569" />
+    <state width="1874" height="159" key="GridCell.Tab.0.right" timestamp="1620605353570">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="418" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1620605186790" />
-    <state x="443" y="99" width="1024" height="844" key="SettingsEditor" timestamp="1620602212283">
+    <state width="1874" height="159" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1620605353570" />
+    <state x="443" y="99" width="1024" height="844" key="SettingsEditor" timestamp="1620606117644">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="443" y="99" width="1024" height="844" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1620602212283" />
+    <state x="443" y="99" width="1024" height="844" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1620606117644" />
   </component>
 </project>

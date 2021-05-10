@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IP_Camera_Recorder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IP_Camera_Recorder_jar</output-path>
+    <root id="archive" name="IP_Camera_Recorder.jar">
+      <element id="module-output" name="IP_Camera_Recorder" />
+    </root>
+  </artifact>
+</component>
